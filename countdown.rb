@@ -3,6 +3,6 @@ def countdown
  countdown_output = 10 
 while countdown_output < 10 
 puts "#{number} SECOND(S)!"
-return 
+return "HAPPY NEW YEAR!"
  end
 end
