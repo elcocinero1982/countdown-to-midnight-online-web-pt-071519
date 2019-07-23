@@ -6,6 +6,6 @@ def countdown
 
  countdown_output -= 1 
   puts "HAPPY NEW YEAR!"
-  return 
+  return "HAPPY NEW YEAR!"
  end
 end
