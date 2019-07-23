@@ -2,6 +2,7 @@
 def countdown
  countdown_output = 10 
 while countdown_output < 10 
-puts 
+puts "#{number} SECOND(S)!"
+return
  end
 end
