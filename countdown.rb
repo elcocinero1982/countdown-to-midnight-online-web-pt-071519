@@ -1,6 +1,6 @@
 #write your code here
 def countdown
-  countdown
- 
+ while countdown < 10
+ puts 
 end
 end
